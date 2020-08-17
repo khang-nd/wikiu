@@ -1,0 +1,23 @@
+.font--1x {
+  font-size: 100%;
+}
+
+.font--1x5 {
+  font-size: 150%;
+}
+
+.font--2x {
+  font-size: 200%;
+}
+
+.sticky--top {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
